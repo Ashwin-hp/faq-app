@@ -1,0 +1,34 @@
+[
+    {"id":1,
+      "question":"Who are the Avengers ?",
+      "answer":"The Avengers are a team of superheroes and the protagonists of the Marvel Cinematic Universe media franchise, based on the Marvel Comics team of the same name created by Stan Lee and Jack Kirby in 1963."
+    },
+    {"id":2,
+      "question":"Was Endgame the final Avengers movie ?",
+      "answer":"No. This is the final time you will see many of the original Avengers. However, more Avengers movies are sure to come, especially with newer Avengers now taking the spotlight."
+    },
+    {"id":3,
+      "question":"How was Bruce able to talk in his Hulk form without turning back into his regular self?",
+      "answer":"Bruce explains he had radiation treatment in order to merge the personas."
+    },
+    {"id":4,
+      "question":"What happened to Gamora in the end? She wasn't on the Guardians ship.",
+      "answer":"Moments before Thor enters the Guardian's ship, we can see Quill looking at a screen with the picture of Gamora and the word 'searching' in top of it. This implies that she fled the scene and the search for her will probably be one of the main plots of Guardians of the Galaxy Vol. 3 (2023)."
+    },
+    {"id":5,
+      "question":"How did Captain America bring back the Soul Stone to Vormir?",
+      "answer":"It isn't shown in the film. Captain America appears to return all the stones with no trouble."
+    },
+    {"id":6,
+      "question":"Why can Captain America lift/use Thor's hammer?",
+      "answer":"Because the very idea of Captain America is that he is the best of mankind. Not that he has powers, but that he is willing to sacrifice himself for the greater good"
+    },
+    {"id":7,
+      "question":"How did Nebula bring Thanos into the future without Pym Particles?",
+      "answer":"When old, bad, Nebula defeated new, good Nebula, she acquired the Pym Particles and GPS device."
+    },
+    {"id":8,
+      "question":"Where were Steve and Peggy dancing at the end?",
+      "answer":"It was in an alternate timeline Steve created after returning the stones."
+    }
+]
